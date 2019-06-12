@@ -1,0 +1,17 @@
+
+//
+//  FashionProject.pch
+//  FashionProject
+//
+//  Created by 孙伟胜 on 2019/6/9.
+//  Copyright © 2019 mac. All rights reserved.
+//
+
+#ifndef FashionProject_pch
+#define FashionProject_pch
+
+#import "HLCommonDefine.h"
+#import "HLBaseViewController.h"
+#import "Categroy.h"
+#import "SVProgressHUD.h"
+#endif /* FashionProject_pch */
